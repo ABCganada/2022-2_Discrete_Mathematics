@@ -1,6 +1,0 @@
-determinant 1
--5
-determinant 2
-4
-determinant 3
-0
